@@ -1,37 +1,49 @@
-## Welcome to GitHub Pages
+<div>
+<table border="0">
+  <tr>
+    <td width="75%">
+      <h1>查致远</h1>
+      <p><b>硕士研究生</b></p>
+      <p><b>中国大学信息学院</b></p>
+      <p><b>邮箱：zhazhiyuan99@ruc.edu.cn</b></p>
+      <p><b>本科：北京师范大学人工智能学院</b></p>
+      <p><a href="/index-en.html">English Version</a></p>
+    </td>
+    <td width="25%">
+      <img src="/zzy.jpg" width="100%">
+    </td>
+  </tr>
+</table>
+</div>
 
-You can use the [editor on GitHub](https://github.com/eatinghungry/zhazhiyuan.github.io/edit/gh-pages/index.md) to maintain and preview the content for your website in Markdown files.
+---
 
-Whenever you commit to this repository, GitHub Pages will run [Jekyll](https://jekyllrb.com/) to rebuild the pages in your site, from the content in your Markdown files.
+查致远，男，1999年出生于湖北省，本科就读于北京师范大学人工智能学院计算机科学与技术专业，现为中国人民大学信息学院硕士一年级在读。
 
-### Markdown
+---
 
-Markdown is a lightweight and easy-to-use syntax for styling your writing. It includes conventions for
+### 最新消息
+无
 
-```markdown
-Syntax highlighted code block
+### 研究方向
+- 自然语言处理
+- 知识图谱
 
-# Header 1
-## Header 2
-### Header 3
+### 荣誉奖励
+- 北京师范大学京师三等奖学金 2019、2020
+- 北京师范大学京师杯学术科技作品二等奖
+- 美赛H奖
 
-- Bulleted
-- List
+### 项目研究
+#### 北京师范大学语言与文字资源研究中心（2019~2021）
+- **基于宋词知识图谱的交互式教学应用**  
+使用python正则表达式结构化书籍中近5000条宋词语料，在正则模式匹配库的基础上，针对宋词鉴赏使用word2vec和TF-ID计算相似度获取宋词中的情感主题与意象进行知识抽取，基于mysql结合开源数据库（CBDB）进行知识挖掘建立以作者的生平，流派，时代，宋朝大事件等为本体的宋词知识图谱。
+基于protege完成知识图谱的本体设计，基于neo4j实现知识图谱可视化，并基于django结合完成项目的部分开发工作，该项目获得“京师杯“学术科技作品竞赛二等奖，为实验室中学语文知识图谱项目提供数据支撑。
+- **基于HTML5的句内关系标注系统可视化系统**  
+以北京师范大学语言与文字资源研究中心的句本位平台（www.jubenwei.com） 的数据为基础，使用dom4j对句本位句法分析后生成的主谓宾定状补，复句等成分进行递归的解析，将原始xml数据转化为div格式。
+基于vue+css grid的流式布局针对句内不同句式成分建立结构，绘制对应的图形、线条、框架，标示词语相关信息，开发句本位可视化平台，丰富平台的使用场景。
 
-1. Numbered
-2. List
+#### 中国人民大学信息学院（2021.9~至今）
+- **无**  
+项目描述
 
-**Bold** and _Italic_ and `Code` text
-
-[Link](url) and ![Image](src)
-```
-
-For more details see [GitHub Flavored Markdown](https://guides.github.com/features/mastering-markdown/).
-
-### Jekyll Themes
-
-Your Pages site will use the layout and styles from the Jekyll theme you have selected in your [repository settings](https://github.com/eatinghungry/zhazhiyuan.github.io/settings/pages). The name of this theme is saved in the Jekyll `_config.yml` configuration file.
-
-### Support or Contact
-
-Having trouble with Pages? Check out our [documentation](https://docs.github.com/categories/github-pages-basics/) or [contact support](https://support.github.com/contact) and we’ll help you sort it out.
