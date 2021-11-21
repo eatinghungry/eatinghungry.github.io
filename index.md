@@ -6,7 +6,7 @@
       <p><b>硕士研究生在读</b></p>
       <p><b>中国人民大学信息学院</b></p>
       <p><b>邮箱：</b></p>
-      <p><b>本科：北京师范大学人工智能学院</b></p>
+      <p><b></b></p>
       <p><a href="/index-en.html">English Version</a></p>
     </td>
     <td width="25%">
