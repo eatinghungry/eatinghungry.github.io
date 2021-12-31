@@ -4,7 +4,7 @@
     <td width="75%">
       <h1>eatinghungry</h1>
       <p><b>硕士研究生在读</b></p>
-      <p><b>中国人民大学信息学院</b></p>
+      <p><b>RUC</b></p>
       <p><b>邮箱：</b></p>
       <p><b></b></p>
       <p><a href="/index-en.html">English Version</a></p>
@@ -28,7 +28,7 @@ BNU AI->RUC INFO
 
 
 ### 研究方向
-- 自然语言处理
+- NLP
 - 
 
 ### 荣誉奖励
